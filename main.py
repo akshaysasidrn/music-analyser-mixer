@@ -1,3 +1,4 @@
+#Importing the other files and links it via the ui
 import frequency
 import specinfo
 import player
